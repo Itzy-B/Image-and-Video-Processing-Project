@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+preview/
+*.egg-info/
+.DS_Store
+# Don't accidentally commit Kaggle images or predictions.
+data/
+submissions/
