@@ -9,3 +9,4 @@ preview/
 # Don't accidentally commit Kaggle images or predictions.
 data/
 submissions/
+preview_hands/
